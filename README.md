@@ -1,3 +1,8 @@
+## My (FURTHER CUSTOMIZED) version of discord.js, forked from MatteZ02's customized version with further customizations made by Wolf20482
+'''Note:''' This repository is for use on my bot. I won't provide support for those using this repository for their own bots.
+
+== Original README ==
+
 <div align="center">
   <br />
   <p>
